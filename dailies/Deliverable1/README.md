@@ -19,6 +19,18 @@
 
 # 1st Deliverable summary photos of each unit 
 
+<ul>
+<li> ** Unit 2 ** </li>
 
+<br>
+
+<li> ** Unit 3 **</li>
+
+<br>
+
+<li> Unit 4</li>
+
+<br>
+</ul>
 
 
