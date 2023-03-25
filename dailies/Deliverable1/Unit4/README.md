@@ -3,7 +3,7 @@
 
 ### First and Last Name: ΣΟΦΙΑ ΠΑΝΤΕΛΟΠΟΥΛΟΥ
 ### University Registration Number: dpsd19140
-### GitHub Personal Profile: xxx
+### GitHub Personal Profile: https://github.com/DPSD19140
 ### Digital-Storytelling-Individual-Assignment: # 1st Deliverable - Unit 4 daily
 
 # Introduction Individual - Assigment (as far as we are..)
