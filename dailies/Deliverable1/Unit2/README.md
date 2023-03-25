@@ -18,11 +18,11 @@
 <h4> Unit 2 daily </h4>
 <p>......</p>
 <br>
- - Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs: 
+ <ul> Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs: </ul>
  <p>......</p>
  
  <br>
- + Lesson 2.2 - Creating Primitive Objects and Arranging Them:
+ > - Lesson 2.2 - Creating Primitive Objects and Arranging Them:
  <p>......</p>
  
  <br>
