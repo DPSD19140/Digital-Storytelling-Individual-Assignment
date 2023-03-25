@@ -41,6 +41,8 @@
  <br>
   <li> Unit 2 - Creative Challenge:  </li>
  <p>.......</p>
+  <br>
+  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
  <br>
 </ul>
 
