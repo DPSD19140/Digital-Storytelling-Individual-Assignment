@@ -16,7 +16,7 @@
 # 1st Deliverable
 <br>
 <h3> Unit 2 daily - Real-time Previsualization </h3>
-<p>......</p>
+<p> Σε αυτό το unit μάθαμε για το Previsualization κάνονατς modeling σε μια πόλη έχοντα ένα αρχικό reference sketch </p>
 <br>
 <ul>
   <li> Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs:  </li>
