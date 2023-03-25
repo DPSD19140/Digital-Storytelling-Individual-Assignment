@@ -22,7 +22,7 @@
  <p>......</p>
  
  <br>
- - Lesson 2.2 - Creating Primitive Objects and Arranging Them:
+ + Lesson 2.2 - Creating Primitive Objects and Arranging Them:
  <p>......</p>
  
  <br>
