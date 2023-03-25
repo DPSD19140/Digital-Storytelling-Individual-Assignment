@@ -18,16 +18,12 @@
 <p>......</p>
 <br>
 <ul>
-  <li> Assembling the Set: </li>
+  <li> Lesson 3.1 - Assembling the Set: </li>
  <p>......</p>
  
  <br>
- <li> Lesson 3.1 - Creating Props with ProBuilder: </li>
+ <li> Lesson 3.2 - Creating Props with ProBuilder: </li>
  <p>......</p>
- 
- <br>
-   <li> Lesson 3.2 - Adding ProBuilder Shapes to the Set:  </li>
- <p></p>
  
  <br>
   <li> Lesson 3.3 - Adding Basic Lighting to a Set:  </li>
