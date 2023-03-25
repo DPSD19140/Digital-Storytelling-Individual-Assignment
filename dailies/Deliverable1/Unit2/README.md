@@ -18,29 +18,30 @@
 <h4> Unit 2 daily </h4>
 <p>......</p>
 <br>
- *Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs: 
+<ul>
+  <li> Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs:  </li>
  <p>......</p>
  
  <br>
- *Lesson 2.2 - Creating Primitive Objects and Arranging Them:
+ <li> Lesson 2.2 - Creating Primitive Objects and Arranging Them: </li>
  <p>......</p>
  
  <br>
- - Lesson 2.3 - Adding ProBuilder Shapes to the Set:
+   <li> Lesson 2.3 - Adding ProBuilder Shapes to the Set:  </li>
  <p></p>
  
  <br>
- - Lesson 2.4 - Creating and Altering Materials to Establish a Look:
+  <li> Lesson 2.4 - Creating and Altering Materials to Establish a Look:  </li>
  <p>......</p>
  
  <br>
- - Lesson 2.5 - Adjusting the Directional Light: 
+  <li> Lesson 2.5 - Adjusting the Directional Light:  </li>
  <p>........</p>
  
  <br>
- - Unit 2 - Creative Challenge:
+  <li> Unit 2 - Creative Challenge:  </li>
  <p>.......</p>
  <br>
-
+</ul>
 
 
