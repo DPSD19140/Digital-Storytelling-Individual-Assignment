@@ -7,7 +7,7 @@
 ### GitHub Personal Profile: https://github.com/DPSD19140
 ### Digital-Storytelling-Individual-Assignment: Deliverable 1 dailies: Unit2- Unit3 - Unit4 = Summary photos of each 
 
-# Introduction
+# Introduction ( as far as we are...)
 <p> Προκειται για την εκμάθηση και την υλοποίηση παραγωγής animation ταινιών μικρού μήκους,
 μέσω του Unity, και ενός μαθήματος της πλατφόρμας του στο οποίο στο τέλος της μαθαίνοντας κάποιες βασικές αρχές του προγράμματος όπως πως στήνω μια σκηνή, πως βάζω χαρακτήρες να κινούνται, πως φτιάχνω τα δικά μου κτήρια, αντικέιμενα και πως κανω filming μια σκηνη του Animation μου κ.α καλούμαι να προσπαθήσω να φτιάξω ένα ολο δικό μου animation movie μικρού μήκους </p>
 
