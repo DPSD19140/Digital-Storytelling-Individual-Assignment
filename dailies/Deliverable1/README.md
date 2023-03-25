@@ -26,14 +26,14 @@
   ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
   
 <br>
-
+<br>
 <li> <strong> Unit 3 - Environment, Modeling, and Set Dressing </strong></li>
   
 <br>
   ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
   
 <br>
-
+<br>
 <li><strong> Unit 4 - Animation </strong></li>
   
 <br>
