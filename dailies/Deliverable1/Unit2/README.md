@@ -8,7 +8,7 @@
 ### GitHub Personal Profile: xxx
 ### Digital-Storytelling-Individual-Assignment: # 1st Deliverable - Unit 2 daily
 
-# Introduction
+# Introduction Individual-Assignment ( as far as we are...)
 <p> Προκειται για την εκμάθηση και την υλοποίηση παραγωγής animation ταινιών μικρού μήκους,
 μέσω του Unity, και ενός μαθήματος της πλατφόρμας του στο οποίο στο τέλος της μαθαίνοντας κάποιες βασικές αρχές του προγράμματος όπως πως στήνω μια σκηνή, πως βάζω χαρακτήρες να κινούνται, πως φτιάχνω τα δικά μου κτήρια και αντικέιμενα κ.α καλούμαι να προσπαθήσω να φτιάξω ένα ολο δικό μου animation movie μικρού μήκους </p>
 
