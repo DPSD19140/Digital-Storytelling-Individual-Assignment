@@ -14,7 +14,7 @@
 
 # 1st Deliverable
 <br>
-<h4> Unit 3 daily - Environment, Modeling, and Set Dressing </h4>
+<h3> Unit 3 daily - Environment, Modeling, and Set Dressing </h3>
 <p>......</p>
 <br>
 <ul>
