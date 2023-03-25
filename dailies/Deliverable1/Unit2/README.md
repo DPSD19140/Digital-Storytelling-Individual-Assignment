@@ -15,7 +15,7 @@
 
 # 1st Deliverable
 <br>
-#### Unit 2 daily:
+#### Unit 2 daily
 <p>......</p>
 <br>
  - Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs: 
