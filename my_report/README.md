@@ -65,13 +65,16 @@
 <p>Στο Unit 4 επειδή είχα πρόβλημα στον υπολογιστή μου με την έκδοση του unity έκανα διπλότυπο το αρχείο του unit 3 που είχα φτιάξει το μετανόμασα και ακολούθησα το tutorial του unit αυτού. Ζήτηθηκε να φτίαχθει ένα μίκρο βίντέο animation που θα έχει τουλάχιστον 2 κίνουμενα αντικέιμενα και έναν χαρακτήρα. Εγώ έφτιαξα 2 χαρακτήρες ένα ζώο και ένα αντικέιμενο, δηλαδή, έναν εξωγήινο, ένα ρομποτ, ένα μηχανάκι και μια γατα.</p>
 <br>
 
- ![unit_4_1](https://user-images.githubusercontent.com/100955211/228067657-af4c557c-7523-424f-97d7-1639482f04a8.png)
+![unit_4_1](https://user-images.githubusercontent.com/100955211/228069040-e0ed73b4-e6f1-4660-82d8-c8195d2c5be8.png)
+
 <br>
 
-![unit_4_2](https://user-images.githubusercontent.com/100955211/228067697-4b86e4dc-5ba1-4c29-b976-91bb4b0a169f.png)
+![unit_4_2](https://user-images.githubusercontent.com/100955211/228069011-5bcf0916-a2d3-4f7e-b44f-d3401e88a732.png)
+
 <br>
 
-![unit_4_3](https://user-images.githubusercontent.com/100955211/228067749-46f2a5ac-0501-4a67-8005-5931f16adeef.png)
+![unit_4_3](https://user-images.githubusercontent.com/100955211/228068990-363033a1-5e67-46d0-9284-77641d6420e6.png)
+
 <br>
 
  <br>
