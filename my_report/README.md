@@ -15,96 +15,37 @@
 
 
 # 1st Deliverable
-
+<br>
+<p> Γενικότερα το πρόβλημα που αντιμετόπισα ήταν με τα βίντεο ότι δεν μου αποθηκευόταν ο φάκελος ώστε μετά να τα βρώ και να τα ανεβάσω, θα το προσπαθήσω ξανά αργότερα μήπως το καταφέρω, γιατί είχα και πρόβλημα με την έκδοση του  unity  δούλέμα ένα κομμάτι του παραδοτέου σοτυς υπολογιστές του πανεπιστημίου και ενα άλλο σπίτι μου και εκέι είχα πρόσβλημα με τους solver. Οπότε σας έχω μόνο φωτογραφίες για την ώρα.</p>
 <br>
 <h3> Unit 2 daily - Real-time Previsualization </h3>
 <p> Σε αυτό το unit μάθαμε για το Previsualization κάνονατς modeling σε μια πόλη έχοντα ένα αρχικό reference sketch </p>
 <br>
-<ul>
-  <li> Lesson 2.1 - Arranging the Editor Layout to Suit Your Needs:  </li>
- <p>......</p>
- 
- <br>
- <li> Lesson 2.2 - Creating Primitive Objects and Arranging Them: </li>
- <p>......</p>
- 
- <br>
-   <li> Lesson 2.3 - Adding ProBuilder Shapes to the Set:  </li>
- <p></p>
- 
- <br>
-  <li> Lesson 2.4 - Creating and Altering Materials to Establish a Look:  </li>
- <p>......</p>
- 
- <br>
-  <li> Lesson 2.5 - Adjusting the Directional Light:  </li>
- <p>........</p>
- 
- <br>
-  <li> Unit 2 - Creative Challenge:  </li>
- <p>.......</p>
-  <br>
+
   ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
  <br>
-</ul>
+
 <br>
 <br>
 <br>
 <br>
 <h3> Unit 3 daily - Environment, Modeling, and Set Dressing </h3>
-<p>......</p>
+<p>Κατέβασα το unit 3 και ακολούθησα το tutorial. Στο creative challege ζητήθηκε να βάλω τουλάχιστον 5 διαφόρετίκα props και να δημιουργήσω ένα νέο μέσω του ProBuilder, έβαλα μια ταμπέλα, φυτά, ποδήλατα, ένα traffic light, λάστιχα, κάτι βαρέλια και έγριαξα μια δικιά μου ταμπέλα οδικής κυκλοφορίας στο pro builder. </p>
 <br>
-<ul>
-  <li> Lesson 3.1 - Assembling the Set: </li>
- <p>......</p>
- 
+
+  
+  ![The San Juan Mountains are beautiful!](/T/images/san-juan-mountains.jpg "San Juan Mountains")
  <br>
- <li> Lesson 3.2 - Creating Props with ProBuilder: </li>
- <p>......</p>
- 
- <br>
-  <li> Lesson 3.3 - Adding Basic Lighting to a Set:  </li>
- <p>......</p>
- 
- <br>
-  <li> Lesson 3.4 - Exploring Emissive Materials:  </li>
- <p>........</p>
- 
- <br>
-  <li> Unit 3 - Creative Challenge:  </li>
- <p>.......</p>
-  <br>
-  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
- <br>
-</ul>
+
 <br>
 <br>
 <h3> Unit 4 daily - Animation </h3>
-<p>......</p>
+<p>Στο Unit 4 επειδή είχα πρόβλημα στον υπολογιστή μου με την έκδοση του unity έκανα διπλότυπο το αρχείο του unit 3 που είχα φτιάξει το μετανόμασα και ακολούθησα το tutorial του unit αυτού. Ζήτηθηκε να φτίαχθει ένα μίκρο βίντέο animation που θα έχει τουλάχιστον 2 κίνουμενα αντικέιμενα και έναν χαρακτήρα. Εγώ έφτιαξα 2 χαρακτήρες ένα ζώο και ένα αντικέιμενο, δηλαδή, έναν εξωγήινο, ένα ρομποτ, ένα μηχανάκι και μια γατα.</p>
 <br>
-<ul>
-  <li> Lesson 4.1 - Creating a Timeline and Adding Keyframed Animation Tracks: </li>
- <p>......</p>
- 
+
+  ![The San Juan Mountains are beautiful!](\\aegean.gr\DPSD\Students\dpsd19140\My Documents\My Pictures\Screenshots\Screenshot (1).jpg)
  <br>
- <li> Lesson 4.2 - Configure Generic Rigs and Add Animation Clips: </li>
- <p>......</p>
- 
- <br>
-  <li> Lesson 4.3 - Configure Humanoid Rigs and Add Animation Clips:  </li>
- <p>......</p>
- 
- <br>
-  <li> Lesson 4.4 - Creating Dailies:  </li>
- <p>........</p>
- 
- <br>
-  <li> Unit 4 - Creative Challenge:  </li>
- <p>.......</p>
-  <br>
-  ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
- <br>
-</ul>
+
 
 # 2nd Deliverable
 
