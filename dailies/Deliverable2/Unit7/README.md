@@ -5,7 +5,7 @@
 <br>
 <br>
 
- ![Δεν μπορούσα αρχικά να φτιάξω τα γράμματα] (https://user-images.githubusercontent.com/100955211/232623454-d5afe639-7324-4e18-ab59-91800860aac2.mp4)
+ https://user-images.githubusercontent.com/100955211/232623454-d5afe639-7324-4e18-ab59-91800860aac2.mp4
 
 <br>
 <br>
