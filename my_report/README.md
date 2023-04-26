@@ -99,6 +99,9 @@ https://user-images.githubusercontent.com/100955211/234709359-9ad891c9-7172-4207
 # 2nd Deliverable
 <br>
 <br>
+<p>Στο δεύτερο παραδοτέο συνολικά δεν αντιμετόπισα κάποιο πρόβλημα. </p>
+<br>
+<br>
 <br>
 <h3> Unit 5 daily - Cinematography </h3>
 <br>
@@ -149,7 +152,10 @@ https://user-images.githubusercontent.com/100955211/234705403-3f7bcf87-fc8b-405f
 <h3> Unit 7 daily - Effects and final rendering</h3>
 <br>
 <br>
-<p>....................................</p>
+<p>Σε αυτο το unit διαφοροποίησα τα γράμματα του τίτλου "chase"  ώστε να υπάρχει μια αισθητή διαφορροποίηση στα δύο βίντεο. Χρησιμοποίησα effect τύπου fog και sparks στο creative challenge </p>
+<br>
+<br>
+
 <br>
 <br>
 <h4> TUTORIAL VIDEO</h4>
