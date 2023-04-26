@@ -102,14 +102,10 @@ https://user-images.githubusercontent.com/100955211/234705937-3a39ca41-2e0d-4e8d
 <br>
 <br>
 
+https://user-images.githubusercontent.com/100955211/234707308-6f70a798-5055-4aaf-9f92-e2762b7c8d63.mp4
 
 
-
-
-
-
-
-
+<br>
 <br>
 <h3> Unit 6 daily - Adding visual fidelity through lightning</h3>
 <br>
