@@ -155,16 +155,20 @@ https://user-images.githubusercontent.com/100955211/234705403-3f7bcf87-fc8b-405f
 <p>Σε αυτο το unit διαφοροποίησα τα γράμματα του τίτλου "chase"  ώστε να υπάρχει μια αισθητή διαφορροποίηση στα δύο βίντεο. Χρησιμοποίησα effect τύπου fog και sparks στο creative challenge </p>
 <br>
 <br>
+
 ![Screenshot (81)](https://user-images.githubusercontent.com/100955211/234711752-4e74b284-b92d-4035-9bbe-a2c323cb0d94.png)
+<br>
 <br>
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/100955211/234711804-fc03b958-d58a-4100-93e7-073461def738.png)
 <br>
-![Screenshot (83)](https://user-images.githubusercontent.com/100955211/234711819-01fb9654-d76b-440f-83bf-af59fba2defa.png)
+<br>
 
+![Screenshot (83)](https://user-images.githubusercontent.com/100955211/234711819-01fb9654-d76b-440f-83bf-af59fba2defa.png)
 <br>
 <br>
 <br>
+
 <h4> TUTORIAL VIDEO</h4>
 <br>
 <br>
