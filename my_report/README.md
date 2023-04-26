@@ -81,8 +81,80 @@
 
 
 # 2nd Deliverable
+<br>
+<br>
+<br>
+<h3> Unit 5 daily - Cinematography </h3>
+<br>
+<br>
+<p>....................................</p>
+<br>
+<br>
+<h4> TUTORIAL VIDEO</h4>
+<br>
+<br>
+
+https://user-images.githubusercontent.com/100955211/234705937-3a39ca41-2e0d-4e8d-86e6-dcd2d9fbeefb.mp4
+
+<br>
+<br>
+<h4> CREATIVE CHALLENGE VIDEO</h4>
+<br>
+<br>
 
 
+
+
+
+
+
+
+
+<br>
+<h3> Unit 6 daily - Adding visual fidelity through lightning</h3>
+<br>
+<br>
+<p>....................................</p>
+<br>
+<br>
+<h4> TUTORIAL VIDEO</h4>
+<br>
+<br>
+
+<br>
+<br>
+<h4> CREATIVE CHALLENGE VIDEO</h4>
+<br>
+<br>
+
+https://user-images.githubusercontent.com/100955211/234705403-3f7bcf87-fc8b-405f-9400-fb97c04e45a8.mp4
+
+<br>
+<br>
+<br>
+<h3> Unit 7 daily - Effects and final rendering</h3>
+<br>
+<br>
+<p>....................................</p>
+<br>
+<br>
+<h4> TUTORIAL VIDEO</h4>
+<br>
+<br>
+
+https://user-images.githubusercontent.com/100955211/234705174-788fbf0a-0d3b-4f0d-9b37-2880513800aa.mp4
+
+<br>
+<br>
+<h4> CREATIVE CHALLENGE VIDEO</h4>
+<br>
+<br>
+
+https://user-images.githubusercontent.com/100955211/234704978-13490f2b-1b09-47b1-94fc-3ee22c036e52.mp4
+
+<br>
+<br>
+<br>
 # 3rd Deliverable 
 
 
