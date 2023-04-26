@@ -106,7 +106,12 @@ https://user-images.githubusercontent.com/100955211/234709359-9ad891c9-7172-4207
 <h3> Unit 5 daily - Cinematography </h3>
 <br>
 <br>
-<p>....................................</p>
+<p>Ακολούθησα τις οδηγίες του tutorial και έκανα τα ζητούμενα στο creative challenge. Επιπλέον στο creative challenge πρόσθεσα και μια κάμερα dolly. </p>
+<br>
+<br>
+
+![Screenshot (80)](https://user-images.githubusercontent.com/100955211/234713307-7e020516-2ae6-4adc-9122-dbd80b2baa5e.png)
+
 <br>
 <br>
 <h4> TUTORIAL VIDEO</h4>
