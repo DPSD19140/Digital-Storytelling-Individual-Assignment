@@ -129,9 +129,28 @@ https://user-images.githubusercontent.com/100955211/234707308-6f70a798-5055-4aaf
 <h3> Unit 6 daily - Adding visual fidelity through lightning</h3>
 <br>
 <br>
-<p>....................................</p>
+<p>Ακολούθησα της οδηγίες του tutorial και στη συνέχεια του creative challenge. Στο creative challenge έβαλα νέα φώτα επιπλέον, στην ταμπέλα του alley, και πρόσθεσα σε αυτά άλλα χρώματα </p>
 <br>
 <br>
+
+![Screenshot (87)](https://user-images.githubusercontent.com/100955211/234712662-a82d4341-7f26-4c9f-b1f8-662645aa8280.png)
+<br>
+<br>
+
+![Screenshot (88)](https://user-images.githubusercontent.com/100955211/234712676-a3e61baf-60e9-4c91-a7bb-5a668fda22c4.png)
+<br>
+<br>
+
+![Screenshot (86)](https://user-images.githubusercontent.com/100955211/234712708-ad72a530-ad55-4a3b-871d-c6c0bb1c81f6.png)
+<br>
+<br>
+
+![Screenshot (89)](https://user-images.githubusercontent.com/100955211/234712689-68338712-a9f1-486c-8c79-321ea9db2e52.png)
+
+<br>
+<br>
+<br>
+
 <h4> TUTORIAL VIDEO</h4>
 <br>
 <br>
